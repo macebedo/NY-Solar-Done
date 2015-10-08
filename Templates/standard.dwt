@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../styles-main.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+<body onLoad="MM_preloadImages('../images/nav-about_over.png','../images/nav-services_over.png','../images/nav-solar_over.png','../images/nav-tips_over.png','../images/nav-contact_over.png')">
+<div id="header"><a href="../index.html"><img src="../images/headerlogo-nysolar.jpg" width="764" height="79"></a><br>
+  <a href="../about.html"><img src="../images/nav-about.png" name="navabout" width="115" height="31" id="navabout" onMouseOver="MM_swapImage('navabout','','../images/nav-about_over.png',1)" onMouseOut="MM_swapImgRestore()"></a><a href="../services.html"><img src="../images/nav-services.png" name="navservices" width="106" height="31" id="navservices" onMouseOver="MM_swapImage('navservices','','../images/nav-services_over.png',1)" onMouseOut="MM_swapImgRestore()"></a><a href="../home-work.html"><img src="../images/nav-solar.png" name="navsolar" width="207" height="31" id="navsolar" onMouseOver="MM_swapImage('navsolar','','../images/nav-solar_over.png',1)" onMouseOut="MM_swapImgRestore()"></a><a href="../tips.html"><img src="../images/nav-tips.png" name="navtips" width="161" height="31" id="navtips" onMouseOver="MM_swapImage('navtips','','../images/nav-tips_over.png',1)" onMouseOut="MM_swapImgRestore()"></a><a href="../contact.html"><img src="../images/nav-contact.png" name="navcontact" width="175" height="31" id="navcontact" onMouseOver="MM_swapImage('navcontact','','../images/nav-contact_over.png',1)" onMouseOut="MM_swapImgRestore()"></a></div>
+<div id="contentWrapper">
+  <div id="mainContent"><!-- TemplateBeginEditable name="mainContent" --><img src="../images/banner-go-green.jpg" width="548" height="177">
+      <h1>Save Electricity, Save the Earth</h1>
+      <h2>Tips to Use All Year Long</h2>
+      <ul>
+        <li>Keep your refrigerator and freezer full. That way they don’t warm up as fast when you open the door and they have to work less. Just don’t keep the door open too long when deciding what of all that food you want to eat.</li>
+        <li>Plant trees in the yard. They shade in the summer and break cold winds in the winter.</li>
+        <li>Clean the lint filter of your dryer after every load.</li>
+        <li>Close doors and heating/cooling vents in rooms that you aren’t using.</li>
+        <li>Unless a recipe tells you otherwise, before putting hot food in the refrigerator, cool it to room temperature.</li>
+        <li>Defrost manual-defrost refrigerators and freezers when the frost is 1/4&quot; thick.</li>
+        <li>Dry multiple loads of laundry immediately after one another. You’ll use less energy because the dryer is already heated.</li>
+        <li>Dishwashers use less water than hand washing dishes. Let the dishes air dry to save even more.</li>
+        <li>If you’re away from home for more than a few days, turn down the water heater.</li>
+      </ul>
+      <h2>Tips for Summer</h2>
+      <ul>
+        <li>Line dry clothes instead of using the drying machine.</li>
+        <li>To naturally cool the house, keep blinds, drapes or shades closed during the day.</li>
+        <li>Install a whole-house fan (in the attic). It draws cool air into the home through the windows while forcing hot air out through attic vents. Use it after sundown when the outside temperature is cooler, and in the early morning. This helps to affordably
+          cool the house, by reducing air conditioning use.</li>
+      </ul>
+      <h2>Tips for Winter</h2>
+      <ul>
+        <li>Let natural sunlight warm up the house by opening curtains, blinds, etc.</li>
+        <li>Caulking the inside of window frames and doors for better insulation.</li>
+        <li>Move furniture around so you sit near interior walls. Since exterior walls and older windows are likely to be drafty, by not sitting near the draft you’ll feel less need to set the thermostat higher.</li>
+      </ul>
+      <p>We hope you have liked these tips. Want to provide us with some more energy saving tips of your own? Please send us an email at <a href="mailto:tips@nysolar.com">tips@nysolar.com</a> We’d love to hear from you. If you give us a new tip that we don’t
+        already have on this page we’ll give you a discount on future work or products we offer.</p>
+      <p>We wish you all the best in your energy saving efforts. Remember that no matter how much energy you save, you still have to use some electricity. What better way to generate it than the environmentally clean and safe solar energy? Our experts can answer
+        any questions you have, give price quotes and much more. Just give us a call at 866-485-9595.</p>
+  <!-- TemplateEndEditable --></div>
+  <div id="aside"><!-- TemplateBeginEditable name="aside" --><img src="../images/sidebar-top.jpg" width="162" height="103">
+      <p><strong>Solar Fact of the Day</strong><br>
+        Even small solar electric systems have significant environmental impacts. A 2.5kW solar system reduces CO2 emissions by the equivalent of planting 1 acre of trees, or the amount of CO2 emitted by a passenger car driving 7,800 miles.</p>
+  <img src="../images/sidebar-bottom.gif" width="162" height="19"><!-- TemplateEndEditable --></div>
+</div>
+<div id="footer">
+  <p>Copyright © NY Solar</p>
+</div>
+</body>
+</html>
